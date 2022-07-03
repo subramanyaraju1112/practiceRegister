@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(167, 232, 214);
+}
+
+.login-img {
+    border-radius: 50%;
+    width: 100%;
+}
+
+form {
+    border: 3px solid black;
+    padding: 20px 20px 20px 20px;
+    font-family: 'Heebo', sans-serif;
+}
+
+.login {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.checkbox {
+    margin-left: -5px;
+}
+
+.submit-button {
+    background-color: rgb(29, 159, 219);
+}
+
+.submit-button:hover{
+    background: rgb(21, 194, 82);
+}

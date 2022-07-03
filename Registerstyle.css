@@ -1,0 +1,34 @@
+body {
+    background-color: rgb(167, 232, 214);
+}
+
+.register-img {
+    border-radius: 50%;
+}
+
+form {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    border: 3px solid black;
+    padding: 20px 20px 20px 20px;
+    font-family: 'Heebo', sans-serif;
+}
+
+.Register {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.checkbox {
+    margin-left: -5px;
+}
+
+.Register-button {
+    background-color: rgb(29, 159, 219);
+}
+
+.Register-button:hover{
+    background: rgb(21, 194, 82);
+}
